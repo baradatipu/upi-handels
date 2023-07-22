@@ -1,7 +1,7 @@
 
 # UPI VPA/Handel List
 
-All Indian banks VPA
+All Indian banks VPA- You can use it your project for automation.
 
 
 
